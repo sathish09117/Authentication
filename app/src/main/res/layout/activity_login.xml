@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Auth.LoginActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login Page"
+        android:textSize="40sp"
+        android:fontFamily="cursive"/>
+
+    <EditText
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:id="@+id/loget1"
+        android:inputType="textEmailAddress"
+        android:hint="Enter email"/>
+
+    <EditText
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/loget2"
+        android:inputType="textPassword"
+        android:hint="Enter password"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/logtv1"
+        android:text="Forgot password ?"
+        android:focusable="true"
+        android:onClick="forgot"
+        android:textSize="15sp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:id="@+id/logb1"
+        android:onClick="login"
+        android:text="Sign-in"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New User : "/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" REGISTER"
+            android:textSize="20sp"
+            android:textColor="#2f2f2f"
+            android:id="@+id/logtv2"
+            android:onClick="forward1"/>
+    </LinearLayout>
+
+</LinearLayout>

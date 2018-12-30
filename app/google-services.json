@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "723453928532",
+    "firebase_url": "https://smartslambook.firebaseio.com",
+    "project_id": "smartslambook",
+    "storage_bucket": "smartslambook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723453928532:android:16acf4e53134fbad",
+        "android_client_info": {
+          "package_name": "com.example.sathishkumar.failed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723453928532-mmlcblt6r2bvgfrobkvt7s21988l3hhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sathishkumar.failed",
+            "certificate_hash": "da27d6370c6430a35565b288a86190e612a1f43c"
+          }
+        },
+        {
+          "client_id": "723453928532-nhn1ee6utcm4035eu3n1nclestl9e036.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcjd2TaQuMMyGlylHg9bh1U4VgwCu_Aak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723453928532-nhn1ee6utcm4035eu3n1nclestl9e036.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723453928532:android:1aa0cbf6fa6abcef",
+        "android_client_info": {
+          "package_name": "com.example.virus.saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723453928532-vu9p5g7t3ojnqvjiafd4kpnhk2hmte72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virus.saver",
+            "certificate_hash": "da27d6370c6430a35565b288a86190e612a1f43c"
+          }
+        },
+        {
+          "client_id": "723453928532-nhn1ee6utcm4035eu3n1nclestl9e036.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcjd2TaQuMMyGlylHg9bh1U4VgwCu_Aak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723453928532-nhn1ee6utcm4035eu3n1nclestl9e036.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723453928532:android:1ae83d9e8e3127d4",
+        "android_client_info": {
+          "package_name": "com.smdeveloper.mysmslambook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723453928532-7e3eql8b2j1eio4pv1a1483f396vecee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smdeveloper.mysmslambook",
+            "certificate_hash": "da27d6370c6430a35565b288a86190e612a1f43c"
+          }
+        },
+        {
+          "client_id": "723453928532-nhn1ee6utcm4035eu3n1nclestl9e036.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcjd2TaQuMMyGlylHg9bh1U4VgwCu_Aak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723453928532-nhn1ee6utcm4035eu3n1nclestl9e036.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723453928532:android:30b1466b08819c8f",
+        "android_client_info": {
+          "package_name": "com.smdevloper.smartslam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723453928532-bsd8u77jestfhkta352ac1804b5e4hd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smdevloper.smartslam",
+            "certificate_hash": "da27d6370c6430a35565b288a86190e612a1f43c"
+          }
+        },
+        {
+          "client_id": "723453928532-nhn1ee6utcm4035eu3n1nclestl9e036.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcjd2TaQuMMyGlylHg9bh1U4VgwCu_Aak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723453928532-nhn1ee6utcm4035eu3n1nclestl9e036.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
